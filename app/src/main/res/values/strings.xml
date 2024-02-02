@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lockApp</string>
+    <string name="local_service_started">Local Service Started</string>
+    <string name="local_service_stopped">Service Stopped</string>
+    <string name="local_service_label">Label of the entry</string>
+    <string name="local_service_connected">Connected</string>
+    <string name="local_service_disconnected">Disconnected</string>
+    <string name="close_txt">close</string>
+</resources>
